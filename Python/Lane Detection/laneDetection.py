@@ -1,9 +1,6 @@
 ################################################################################
 ######## LANE DETECTION PROJECT ################################################
 ################################################################################
-# BY:           CAN OZCIVELEK
-# DATE:         DECEMBER 2018
-#
 # DESCRIPTION:  THIS  PROJECT WAS CREATED  TO DEMONSTRATE HOW  A  LANE DETECTION
 #               SYSTEM WORKS  ON CARS EQUIPPED WITH A FRONT  FACING CAMERA. WITH
 #               THE HELP OF OPENCV LIBRARIES IT IS POSSIBLE TO DESIGN ALGORITHMS
